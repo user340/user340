@@ -1,16 +1,15 @@
-### Hi there 👋
+# About 榎本 優樹 (Enomoto Yuuki)
 
-<!--
-**user340/user340** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Free Libre Open Source Software (FLOSS) engineer. I am involved in FLOSS
+in both my work and my spare time projects. My interest is how to manage
+userland in NetBSD (yes, I am not kernel hacker) and how to get more efficiency
+to testing packages/software. So, I love convenient and powerful software like
+as package manager, container, virtual machine, configuration management tool,
+and CI/CD tool.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [The NetBSD Project](https://www.netbsd.org/) to improve NetBSD base system packaging (syspkgs).
+- [The pkgsrc-wip project](https://pkgsrc.org/wip/) to publish own software.
+- [basepkg](https://github.com/user340/basepkg) for testing new features to NetBSD syspkgs.
+- [fdgw2](https://github.com/user340/fdgw2) to try building small NetBSD distribution.
