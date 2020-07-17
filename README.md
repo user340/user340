@@ -1,5 +1,7 @@
 # About 榎本 優樹 (Enomoto Yuuki)
 
+:jp:
+
 I am Free Libre Open Source Software (FLOSS) engineer. I am involved in FLOSS
 in both my work and my spare time projects. My interest is how to manage
 userland in NetBSD (yes, I am not kernel hacker) and how to get more efficiency
