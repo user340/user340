@@ -13,3 +13,7 @@ and CI/CD tool.
 - [The pkgsrc-wip project](https://pkgsrc.org/wip/) to publish own software.
 - [basepkg](https://github.com/user340/basepkg) for testing new features to NetBSD syspkgs.
 - [fdgw2](https://github.com/user340/fdgw2) to try building small NetBSD distribution.
+
+## Score
+
+![Yuuki's github stats](https://github-readme-stats.vercel.app/api?username=user340&count_private=true)
